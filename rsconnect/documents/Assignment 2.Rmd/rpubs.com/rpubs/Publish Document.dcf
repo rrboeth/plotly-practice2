@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/339715/e7f7d60f28f54c42839eb3be5f7aaf49
+bundleId: https://api.rpubs.com/api/v1/document/339715/e7f7d60f28f54c42839eb3be5f7aaf49
+url: http://rpubs.com/rileybee/339715
+when: 1512859119.58578

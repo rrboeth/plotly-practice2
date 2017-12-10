@@ -1,0 +1,20 @@
+---
+title: "Assignment 2"
+output:
+  html_document: default
+Date: 12.11.17
+---
+
+```{r}
+
+install.packages("MASS")
+install.packages("plotly")
+library(plotly)
+library(MASS)
+
+
+plot<-plot_ly(Boston, x = ~age, y = ~crim, type = "scatter", size = ~medv, color = ~black)
+
+plot
+```
+
